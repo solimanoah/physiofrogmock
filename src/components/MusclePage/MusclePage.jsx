@@ -49,12 +49,12 @@ function MusclePage() {
                     <div className="muscle-flip-inner">
                         {/* FRONT IMAGE */}
                         <div className="muscle-front">
-                            <img src="/src/assets/muscle-front.jpg" alt="Front"/>
+                            <img src="/assets/muscle-front.jpg" alt="Front"/>
                         </div>
 
                         {/* BACK IMAGE */}
                         <div className="muscle-back">
-                            <img src="/src/assets/muscle-back.jpg" alt="Back"/>
+                            <img src="/assets/muscle-back.jpg" alt="Back"/>
                         </div>
                     </div>
                     
