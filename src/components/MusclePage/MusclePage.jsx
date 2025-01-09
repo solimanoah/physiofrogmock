@@ -10,23 +10,23 @@ function MusclePage() {
     const muscles = [
         {
             id: 1, name: 'Pectorals', x: 80, y: 100, width: 80, height: 70, side: 'front',
-            image: '/src/assets/pectorals.jpg', description: 'The pectoral muscles are located on the chest and are responsible for arm movement and pushing motions',
+            image: '/assets/pectorals.jpg', description: 'The pectoral muscles are located on the chest and are responsible for arm movement and pushing motions',
             description2: 'Strains, tears, or tendon ruptures, often caused by heavy lifting or sudden stretching during bench presses or similar exercises.'
          },
         {
             id: 2, name: 'Quadriceps', x: 80, y: 280, width: 100, height: 100, side: 'front',
-            image: '/src/assets/quadriceps.jpg', description: 'The quadriceps are a group of muscles located on the front of the thigh. They help in leg extension and walking.',
+            image: '/assets/quadriceps.jpg', description: 'The quadriceps are a group of muscles located on the front of the thigh. They help in leg extension and walking.',
             description2: 'Strains, contusions, or tendonitis due to overuse, sudden stops, or forceful contractions during running, jumping, or squatting activities.'
          },
 
         {
             id: 3, name: 'Back', x: 80, y: 120, width: 80, height: 140, side: 'back',
-            image: '/src/assets/back.jpg', description: 'The back muscles provide support to the spine and enable movements like pulling and lifting.',
+            image: '/assets/back.jpg', description: 'The back muscles provide support to the spine and enable movements like pulling and lifting.',
             description2: 'Muscle strains, disc herniation, or lower back pain caused by improper lifting, poor posture, or repetitive movements.'
          },
         {
             id: 4, name: 'Hamstrings', x: 80, y: 300, width: 80, height: 80, side: 'back',
-            image: '/src/assets/hamstrings.jpg', description: 'The hamstrings are located on the back of the thigh and are responsible for bending the knee and extending the hip.',
+            image: '/assets/hamstrings.jpg', description: 'The hamstrings are located on the back of the thigh and are responsible for bending the knee and extending the hip.',
             description2: 'Strains, tears, or tendon injuries, frequently resulting from sprinting, overstretching, or rapid acceleration during sports or physical activity.'
          } 
     ];
